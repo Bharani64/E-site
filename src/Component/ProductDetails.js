@@ -26,6 +26,7 @@ export const ProductDetails = () => {
                       borderStyle: "double",
                     }}
                     src={img}
+                    alt="Cart-details"
                   />
                 </div>
                 <div className="col-10 mx-auto col-md-6 my-3 text-capitalize">

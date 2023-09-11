@@ -6,7 +6,7 @@ export const CartItem = ({ cart, values }) => {
     <>
       <div className="row" style={{fontFamily:'cursive'}}>
         <div className="col-10 mx-auto col-lg-2">
-          <img src={cart.img} style={{ width: "200px", height: "200px" }} />
+          <img src={cart.img} style={{ width: "200px", height: "200px" }} alt="cart-img"/>
         </div>
         <div className="col-10 mx-auto col-lg-2 h5">
           <span className="d-lg-none">Product: </span>

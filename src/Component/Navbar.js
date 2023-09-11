@@ -1,5 +1,4 @@
 import React from "react";
-import icons from "../icons8-home.svg";
 import { Icon } from "react-icons-kit";
 import { home } from "react-icons-kit/icomoon/home";
 import { shoppingCart } from "react-icons-kit/fa/shoppingCart";

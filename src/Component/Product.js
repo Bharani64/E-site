@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import { ProductConsumer } from "../Context";
 export const Product = ({ Products }) => {
@@ -21,7 +21,7 @@ export const Product = ({ Products }) => {
                     values.handleOnClickImage(Products.id);
                   }}
                   src={Products.img}
-                  alt="Card image cap"
+                  alt="Card-cap"
                 />
               </Link>
 

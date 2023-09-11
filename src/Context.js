@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { storeProducts, detailProduct } from "./data";
 const ProductContext = React.createContext();
 
@@ -31,14 +31,6 @@ const ProductProvider = (props) => {
   };
   const getItem = (id) => {
     const product = state.storeProducts.find((item) => item.id === id);
-    return product;
-  };
-  const getItemCart = (id) => {
-    const product = state.cart.find((item) => item.id === id);
-    return product;
-  };
-  const filterItemCart = (id) => {
-    const product = state.cart.filter((item) => item.id !== id);
     return product;
   };
   const handleOnClickImage = (id) => {
