@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/Bharani64/e-site/static/css/main.ea7f3a64.css",
-    "main.js": "/Bharani64/e-site/static/js/main.ce1876dd.js",
+    "main.js": "/Bharani64/e-site/static/js/main.c99994bb.js",
     "static/js/787.4123b6e3.chunk.js": "/Bharani64/e-site/static/js/787.4123b6e3.chunk.js",
-    "static/media/icons8-home.svg": "/Bharani64/e-site/static/media/icons8-home.c15747b7f0b84826364bba6f192f3c46.svg",
     "index.html": "/Bharani64/e-site/index.html",
     "main.ea7f3a64.css.map": "/Bharani64/e-site/static/css/main.ea7f3a64.css.map",
-    "main.ce1876dd.js.map": "/Bharani64/e-site/static/js/main.ce1876dd.js.map",
+    "main.c99994bb.js.map": "/Bharani64/e-site/static/js/main.c99994bb.js.map",
     "787.4123b6e3.chunk.js.map": "/Bharani64/e-site/static/js/787.4123b6e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea7f3a64.css",
-    "static/js/main.ce1876dd.js"
+    "static/js/main.c99994bb.js"
   ]
 }
